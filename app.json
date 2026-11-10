@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "RenoRight",
+    "slug": "renoright",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "renoright",
+    "plugins": ["expo-router", ["expo-image-picker", {"photosPermission": "RenoRight needs access to your photos so you can redesign your room."}]],
+    "experiments": {"typedRoutes": true}
+  }
+}
